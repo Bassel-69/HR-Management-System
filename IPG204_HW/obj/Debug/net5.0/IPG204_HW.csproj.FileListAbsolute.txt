@@ -1,0 +1,16 @@
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\bin\Debug\net5.0\IPG204_HW.exe
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\bin\Debug\net5.0\IPG204_HW.deps.json
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\bin\Debug\net5.0\IPG204_HW.runtimeconfig.json
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\bin\Debug\net5.0\IPG204_HW.runtimeconfig.dev.json
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\bin\Debug\net5.0\IPG204_HW.dll
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\bin\Debug\net5.0\IPG204_HW.pdb
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\IPG204_HW.csproj.AssemblyReference.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\IPG204_HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\IPG204_HW.AssemblyInfoInputs.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\IPG204_HW.AssemblyInfo.cs
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\IPG204_HW.csproj.CoreCompileInputs.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\IPG204_HW.dll
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\refint\IPG204_HW.dll
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\IPG204_HW.pdb
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\IPG204_HW.genruntimeconfig.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG204_Object Oriented Programming\F22\HW\IPG204_HW\obj\Debug\net5.0\ref\IPG204_HW.dll

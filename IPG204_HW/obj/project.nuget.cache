@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0OFSrC5Ik/rAcyAa6zhzi5qLd+KLWFKGkXNfuaBItdwRoZxFvpGN/XgVninvX+IHJJo25rOM6MF9Yud00bKzw==",
+  "success": true,
+  "projectFilePath": "D:\\Knowledge And Information\\University\\BAIT\\Homeworks\\IPG204_Object Oriented Programming\\F22\\HW\\IPG204_HW\\IPG204_HW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
